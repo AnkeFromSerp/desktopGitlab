@@ -1,2 +1,1 @@
-# desktopGitlab
-Десктопная версия гитлаба
+npm install --save-dev electron
